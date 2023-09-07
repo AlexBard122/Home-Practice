@@ -5,3 +5,8 @@ T divide(T input);
 T multiply(T input);
 void print();
 }
+
+class Fraction implements interface{
+int numerator;
+int denominator;
+}
